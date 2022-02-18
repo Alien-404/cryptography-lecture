@@ -1,2 +1,2 @@
 # cryptography-lecture
-cryptography lecture work
+cryptography lecture assignment
